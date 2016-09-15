@@ -1,0 +1,17 @@
+Node;cueca;
+Node;meias;
+Node;sapato;
+Node;calca;
+Node;cinto;
+Node;camisa;
+Node;paleto;
+Node;gravata;
+Edge;cueca;calca;0;
+Edge;cueca;sapato;0;
+Edge;meias;sapato;0;
+Edge;calca;sapato;0;
+Edge;calca;cinto;0;
+Edge;cinto;paleto;0;
+Edge;camisa;cinto;0;
+Edge;camisa;gravata;0;
+Edge;gravata;paleto;0;

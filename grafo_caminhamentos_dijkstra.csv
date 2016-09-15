@@ -1,0 +1,15 @@
+Node;A;
+Node;B;
+Node;C;
+Node;D;
+Node;E;
+Node;F;		
+Edge;A;B;7;
+Edge;A;C;2;
+Edge;B;D;3;
+Edge;C;B;1;
+Edge;C;D;2;
+Edge;C;E;8;
+Edge;D;E;3;
+Edge;D;F;5;
+Edge;E;F;1;
